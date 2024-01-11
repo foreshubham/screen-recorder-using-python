@@ -1,0 +1,5 @@
+python 3
+pillow (`pip install Pillow`)
+numPy (`pip install numpy`)
+openCV (`pip install opencv-python`)
+win32api (`pip install pywin32`)
